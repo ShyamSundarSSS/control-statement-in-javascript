@@ -1,6 +1,1 @@
-1.)we have two integer m and n.
-  calculate the sum of the cube of the integer ,check if m is greater than n  written "0" or display the  result ?
-
-test case 1:m=2 or n=4
-test case 2:m=1 or n=3
-test case 3:m=5 or n=7
+swetha is ordering online foods,menu items pizza=Rs.500,burger=Rs.250,apple juice=Rs.100,chicken briyani=Rs.300 and total.swetha wants to enter your choice and need to select the quantity also.if toatl price exceeds 500 give 10% di for food items
