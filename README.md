@@ -1,1 +1,1 @@
-swetha is ordering online foods,menu items pizza=Rs.500,burger=Rs.250,apple juice=Rs.100,chicken briyani=Rs.300 and total.swetha wants to enter your choice and need to select the quantity also.if toatl price exceeds 500 give 10% di for food items
+swetha is ordering online foods,menu items pizza=Rs.500,burger=Rs.250,apple juice=Rs.100,chicken briyani=Rs.300 and total.swetha wants to enter your choice and need to select the quantity also.if total price exceeds 500 give 10% discount for food items
